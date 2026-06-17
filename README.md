@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deepika
 
-🎓 **B.Tech Cyber Security & Forensics** | 🛡️ Aspiring SOC Analyst | 🔍 Digital Forensics | 🌐 Network Security | 🚩 CTF Player
+🎓 **BTech Cyber Security & Forensics** | 🛡️ Aspiring SOC Analyst | 🔍 Digital Forensics | 🌐 Network Security | 🚩 CTF Player
 
 I'm a cybersecurity student passionate about defending systems, investigating threats, and understanding how attackers operate. I enjoy working on **SOC operations, threat detection, malware analysis, digital forensics, network security, and adversary simulation** through hands-on labs and real-world projects.
 
