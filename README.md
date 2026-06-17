@@ -115,10 +115,10 @@ A real-time threat detection solution developed to identify Man-in-the-Middle at
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** (https://linkedin.com/in/deepika-def)
-- 🐙 **GitHub:** (https://github.com/deepika-cs121)
-- 🚩 **TryHackMe:** (https://tryhackme.com/p/Deepika)
-- 📧 **Email:** deepika.cs121@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/deepika-def)
+- 🐙 [GitHub](https://github.com/deepika-cs121)
+- 🚩 [TryHackMe](https://tryhackme.com/p/Deepika)
+- 📧 [Email]deepika.cs121@gmail.com
 
 ---
 
