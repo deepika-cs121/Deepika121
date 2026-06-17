@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Deepika
 
+![](https://komarev.com/ghpvc/?username=deepika-cs121&color=blue)
+
 🎓 **B.Tech Cyber Security & Forensics** | 🛡️ Aspiring SOC Analyst | 🔍 Digital Forensics | 🌐 Network Security | 🚩 CTF Player
 
 I'm a cybersecurity student passionate about defending systems, investigating threats, and understanding how attackers operate. I enjoy working on **SOC operations, threat detection, malware analysis, digital forensics, network security, and adversary simulation** through hands-on labs and real-world projects.
@@ -118,7 +120,7 @@ A real-time threat detection solution developed to identify Man-in-the-Middle at
 - 💼 [LinkedIn](https://linkedin.com/in/deepika-def)
 - 🐙 [GitHub](https://github.com/deepika-cs121)
 - 🚩 [TryHackMe](https://tryhackme.com/p/Deepika)
-- 📧 [Email](https://deepika.cs121@gmail.com)
+- 📧 Email: deepika.cs121@gmail.com
 
 ---
 
