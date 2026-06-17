@@ -8,62 +8,25 @@ I'm a cybersecurity student passionate about defending systems, investigating th
 
 ## 🔐 About Me
 
-- 🎓 B.Tech in Cyber Security & Forensics (2023–2027)
-- 🛡️ Interested in SOC Operations, Threat Detection & Incident Response
-- 🔍 Passionate about Malware Analysis & Digital Forensics
-- 🚩 Active CTF Player and Cybersecurity Lab Enthusiast
-- 💡 Learning through practical projects, simulations, and investigations
-- 🐧 Linux & Open-Source Security Enthusiast
+- 🧠 Cybersecurity student with strong hands-on experience
+- 🏆 **Top 1% on TryHackMe**
+- 🎯 Interested in **SOC, Blue Teaming, Threat Hunting & Detection Engineering**
+- 🚩 Active **CTF player**
+- 💡 Believe in learning by **building, breaking & defending**
 
 ---
 
 ## 🧰 Skills & Technologies
 
-### 💻 Programming & Scripting
-- Python
-- Bash
-- PowerShell
-- Java
-- SQL
+💻 **Programming:** Python, Java, SQL, Bash, PowerShell
 
-### 🌐 Networking
-- TCP/IP
-- OSI Model
-- Subnetting
-- Routing Fundamentals
-- Firewalls
-- VPNs
-- IDS/IPS
-- Packet Analysis
+🌐 **Networking:** TCP/IP, OSI Model, Subnetting, Routing, Firewalls, VPNs, IDS/IPS, Packet Analysis
 
-### 🛡️ Cybersecurity Domains
-- SOC Operations
-- SIEM Analysis
-- Alert Triage
-- Log Correlation
-- Incident Response
-- Threat Detection
-- IOC Analysis
-- Malware Analysis
-- Digital Forensics
+🛡️ **Cybersecurity:** SOC Operations, SIEM Analysis, Alert Triage, Log Correlation, Incident Response, Threat Detection, IOC Analysis, Malware Analysis, Digital Forensics
 
-### 🛠️ Security Tools
-- Wireshark
-- Nmap
-- Burp Suite
-- Metasploit
-- Splunk
-- Wazuh
-- Snort
-- Autopsy
-- Magnet Axiom
+🛠️ **Tools:** Wireshark, Nmap, Burp Suite, Metasploit, Splunk, Wazuh, Snort, Autopsy, Magnet Axiom
 
-### 🖥️ Platforms
-- Kali Linux
-- Ubuntu
-- Windows
-- Git
-- Docker
+🖥️ **Platforms:** Kali Linux, Ubuntu, Windows, Git, Docker
 
 ---
 
@@ -116,7 +79,6 @@ A real-time threat detection solution developed to identify Man-in-the-Middle at
 - CCNA Modules (M1, M2, M3)
 - Google Cybersecurity Professional Certificate
 - Palo Alto Cybersecurity Fundamentals
-- FACT – National Forensic Sciences University
 - Tata Group Cybersecurity Analyst Job Simulation
 
 ---
@@ -153,10 +115,10 @@ A real-time threat detection solution developed to identify Man-in-the-Middle at
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/deepika-def
-- 🐙 GitHub: https://github.com/deepika-cs121
-- 🚩 TryHackMe: https://tryhackme.com/p/Deepika
-- 📧 Email: deepika.cs121@gmail.com
+- 💼 **LinkedIn:** [deepika-def](https://linkedin.com/in/deepika-def)
+- 🐙 **GitHub:** [deepika-cs121](https://github.com/deepika-cs121)
+- 🚩 **TryHackMe:** [Deepika](https://tryhackme.com/p/Deepika)
+- 📧 **Email:** deepika.cs121@gmail.com
 
 ---
 
