@@ -115,9 +115,9 @@ A real-time threat detection solution developed to identify Man-in-the-Middle at
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** [deepika-def](https://linkedin.com/in/deepika-def)
-- 🐙 **GitHub:** [deepika-cs121](https://github.com/deepika-cs121)
-- 🚩 **TryHackMe:** [Deepika](https://tryhackme.com/p/Deepika)
+- 💼 **LinkedIn:** (https://linkedin.com/in/deepika-def)
+- 🐙 **GitHub:** (https://github.com/deepika-cs121)
+- 🚩 **TryHackMe:** (https://tryhackme.com/p/Deepika)
 - 📧 **Email:** deepika.cs121@gmail.com
 
 ---
